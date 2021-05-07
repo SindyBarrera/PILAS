@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Eoll0+kX4Ob4RdbMEimsxdJpKpa7SOMFEW3e43hHltBYPj85NWF37EvLg37q1/jE1G9vHbQQk3oJVp8zgWwWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sindy Barrera\\source\\repos\\Pilas\\Pilas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sindy Barrera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
